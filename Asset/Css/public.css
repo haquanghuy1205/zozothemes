@@ -1,0 +1,76 @@
+
+html *{
+    font-size:  15px;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro',sans-serif;
+}
+i{
+    font-size: 13px;
+}
+a{
+    text-decoration: none;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 15px;
+}
+
+p{
+    font-size: 16px !important;
+    font-weight: 400;
+    line-height: 1.7em;
+    color: #434955;
+    font-family: 'Source Sans Pro',sans-serif;
+    margin: 0 0 20px;
+}
+h6{
+    font-family: Poppins,sans-serif !important;
+    font-size: 16px !important;
+    line-height: 25px !important;
+    font-weight: 500 !important;
+    color: #222;
+}
+h5{
+    font-family: Poppins,sans-serif !important;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222;
+    font-weight: 500;
+}
+h3{
+    font-family: Poppins,sans-serif;
+    font-size: 32px;
+    line-height: 42px;
+    color: #222;
+    font-weight: 500;
+}
+.no-margin{
+    margin: 0!important;
+}
+.mt-30{
+    margin-bottom: 30px;
+}
+.mt-20{
+    margin-bottom: 20px;
+}
+.mt-10{
+    margin-bottom: 20px;
+}
+.pb-15{
+    padding-bottom: 15px;
+}
+.pb-30{
+    padding-bottom: 30px;
+}
+.pt-30{
+    padding-top: 30px;
+}
+.px-15{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.fw-900{
+    font-weight: 900 !important;
+}
+.text-right{
+    text-align: right;
+}
